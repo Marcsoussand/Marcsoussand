@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Marc, full-stack software engineer with finance background and 5 years experience
 
 <!--
 **Marcsoussand/Marcsoussand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
